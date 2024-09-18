@@ -1,5 +1,13 @@
 # lab02-debugging
 
+# Results
+- Team Jill and Clara
+- Link: (https://www.shadertoy.com/view/43lcWj)
+
+Bugs:
+-
+-
+
 # Setup 
 
 Create a [Shadertoy account](https://www.shadertoy.com/). Either fork this shadertoy, or create a new shadertoy and copy the code from the [Debugging Puzzle](https://www.shadertoy.com/view/flGfRc).
