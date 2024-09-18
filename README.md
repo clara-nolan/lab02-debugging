@@ -5,8 +5,10 @@
 - Link: (https://www.shadertoy.com/view/43lcWj)
 
 Bugs:
--
--
+- Code did not compile because of type mismatch with vec instead of vec2
+- Not enough iterations for march function
+- Wrong UV coordinates were being used
+- Aspect ratio was not being set correctly since Resolution.x was being divided by itself
 
 # Setup 
 
